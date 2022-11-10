@@ -1,0 +1,65 @@
+body {
+  background-color: black;
+}
+
+h1 {
+  color: white;
+  font-family: "Secular One";
+  text-align: center;
+  font-size: 75px;
+  margin-top: -50px;
+  color: #FF9C00;
+}
+
+h2 {
+  color: white;
+  font-family: "Secular One";
+  text-align: center;
+  color: #FF9C00
+
+}
+
+.logo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.button {
+  margin-top: 15px;
+}
+
+.btn {
+  font-weight: 700;
+  border-radius: 300px;
+  text-transform: uppercase;
+}
+
+.btn-primary {
+  background-color: #D52618;
+  border-color: #D52618;
+}
+
+
+.btn-primary:hover {
+  background-color: #D52618;
+  border-color: #D52618;
+  border-width: 4px;
+}
+
+/*Footer*/
+
+.container {
+  max-width: 600px;
+  margin-top: 50px;
+}
+
+p {
+  text-align: center;
+  color: white;
+}
+
+.top {
+  margin-bottom: 0px;
+}
